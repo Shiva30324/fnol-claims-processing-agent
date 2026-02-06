@@ -1,0 +1,16 @@
+Policy Number: POL12345
+Policyholder Name: Ravi Kumar
+Effective Dates: 01-01-2025 to 01-01-2026
+
+Date of Incident: 12-01-2025
+Time: 10:30 AM
+Location: Bangalore
+Description: Accident looks staged and inconsistent with damages
+
+Asset Type: Car
+Asset ID: KA01AB1234
+Estimated Damage: 18000
+
+Claim Type: Vehicle
+Attachments: Photos
+Initial Estimate: 18000
